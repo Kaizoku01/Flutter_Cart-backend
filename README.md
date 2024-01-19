@@ -1,4 +1,4 @@
-# FlutterCart - E-commerce Application
+# FlutterCart - E-commerce Application (Backend)
 
 FlutterCart is an e-commerce application with a Flutter frontend and a Node.js backend powered by MongoDB. This project allows users to browse and purchase products in an online store.
 
