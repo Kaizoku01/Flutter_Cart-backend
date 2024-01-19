@@ -23,17 +23,20 @@ Before you begin, ensure you have the following prerequisites installed:
 
 ### Installation <a name="installation"></a>
 
-1. Clone the repository:
+1. Clone the current repository:
 
    ```bash
    git clone https://github.com/Kaizoku01/Flutter_Cart-backend.git
-2. Change into the project directory:
-
+   
+2. Clone the frontend repository:
+   
    ```bash
-   cd Flutter_Cart-backend
+   git clone https://github.com/Kaizoku01/Flutter_Cart-frontend.git
+   
 3. Install dependencies:
 
    ```bash
+   cd Flutter_Cart-backend
    npm install
    
 ### Configuration <a name="configuration"></a>
